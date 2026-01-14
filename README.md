@@ -169,6 +169,3 @@ focal loss. An improved sample size would also help in increasing our
 macro F1 scores by decreasing the number of false negatives and
 positives.
 
-[Here is the Github Link to our
-project](https://github.com/CooperWisener/Attack-or-Contain-Defensive-Decision-Making-in-Pass-Coverage)
-

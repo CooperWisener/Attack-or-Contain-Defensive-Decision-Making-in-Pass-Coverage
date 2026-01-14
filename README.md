@@ -19,7 +19,9 @@ defensive back.
 
 To quantify this, we implemented a change point detection system that
 calculates a metric we call the **change metric**, defined as:
-$$change metric = \sqrt{(angular\\velocity)^2 + (velocity)^2 + (acceleration)^2}$$
+
+$$change metric = \sqrt{(angular velocity)^2 + (velocity)^2 + (acceleration)^2}$$
+
 It is important to note that these values are calculated relative to
 where the ball will land, so we are measuring changes in angle and
 distance to the ball’s landing spot. For each play, the system smooths
@@ -169,3 +171,4 @@ positives.
 
 [Here is the Github Link to our
 project](https://github.com/CooperWisener/Attack-or-Contain-Defensive-Decision-Making-in-Pass-Coverage)
+
